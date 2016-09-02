@@ -2,3 +2,8 @@
 1 package dough
 1 block cheese
 olives
+
+Directions: 
+1. preheat oven
+2. make dough and put pizza in
+
