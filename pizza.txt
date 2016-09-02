@@ -1,4 +1,4 @@
-sauce 
-dough
-cheese
-
+1 package sauce 
+1 package dough
+1 block cheese
+olives
